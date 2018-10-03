@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # vim: shiftwidth=4:tabstop=4:expandtab:softtabstop=4
 from __future__ import absolute_import
 

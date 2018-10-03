@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # In case we are in nemea/modules/report2idea/bruteforce and we want to import from repo:
 import os, sys
